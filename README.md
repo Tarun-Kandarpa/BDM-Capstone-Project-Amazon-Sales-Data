@@ -1,3 +1,5 @@
+## Amazon Sales & Fulfillment: Data-Driven Insights for Optimization & Growth
+
 The project focuses on analyzing Amazon’s e-commerce operations data and addressing the 
 key challenges in order fulfillment, cancellations, logistics, and promotional strategies. One 
 of the major business challenges arises from the high order cancellation rate, along with 
